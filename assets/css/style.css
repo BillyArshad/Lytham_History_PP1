@@ -91,3 +91,8 @@ h1, h2 {
 
     position: absolute;
 }
+
+#personal-image {
+    width: 33%;
+    margin: 0 auto;
+}
