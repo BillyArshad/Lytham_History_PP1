@@ -7,7 +7,9 @@
 }
 
 body{
-    font-family: Lato, sans-serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 }
@@ -24,4 +26,34 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 300%;
+}
+
+/* navigation links for Lytham History */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float:right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color:inherit;
+}
+
+#menu a:hover{
+    border-bottom: 2px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 2px solid #3a3a3a;
 }
