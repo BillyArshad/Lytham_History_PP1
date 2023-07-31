@@ -21,6 +21,7 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
+    background-color: antiquewhite;
 }
 
 #logo {
@@ -42,7 +43,8 @@ h1, h2 {
 #menu li {
     float:right;
     list-style-type: none;
-    margin-right: 20px;
+    margin-right: 5px;
+    background-color: antiquewhite;
 }
 
 #menu a {
@@ -56,4 +58,36 @@ h1, h2 {
 
 .active {
     border-bottom: 2px solid #3a3a3a;
+}
+
+/* lytham image and cover text for Lytham History */
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+#lytham-image{
+    height: 1000px;
+    width: 100%;
+    background: url('../images/waste-management-in-lytham-st-annes.webp') no-repeat center center;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 500px;
+    height: 375px;
+
+    padding-top: 30px;
+    padding-left: 10px;
+
+    background-color: rgba(255, 255, 255, 0.6);
+
+    top: 80px;
+    left: 150px;
+
+    position: absolute;
 }
