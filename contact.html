@@ -15,7 +15,7 @@
 <body>
     <header>
         <a href="index.html">
-            <h1 id="logo">Lytham History</h1>
+                    <h1 id="logo">Lytham History</h1>
         </a>
         <ul id="menu">
             <li>
@@ -29,6 +29,45 @@
             </li>
         </ul>
     </header>
+    <section>
+        <div class="container">
+            <form action="action_page.php">
+                <h3>Interested to contact me? Please fill this form</h3>
+
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        
+                <label for="country">Country</label>
+                <select id="country" name="country">
+                    <option value="england">England</option>
+                    <option value="scotland">Scotland</option>
+                    <option value="wales">Wales</option>
+                    <option value="northern-ireland">Northern Ireland</option>
+                    <option value="ireland">Ireland</option>
+                    <option value="france">France</option>
+                    <option value="germany">Germany</option>
+                    <option value="spain">Spain</option>
+                    <option value="denmark">Denmark</option>
+                    <option value="belgium">Belgium</option>
+                    <option value="portugal">Portugal</option>
+                    <option value="netherlands">Netherlands</option>
+                    <option value="switzerland">Switzerland</option>
+                    <option value="united-states-of-america">United States of America</option>
+                    <option value="canada">Canada</option>
+                    <option value="mexico">Mexico</option>
+                </select>
+        
+                <label for="subject">Subject</label>
+                <textarea id="subject" name="subject" placeholder="Please write something.." style="height:200px"></textarea>
+        
+                <input type="submit" value="Submit">
+        
+            </form>
+        </div>
+    </section>
     <footer>
         <ul class="social-networks">
             <li>
