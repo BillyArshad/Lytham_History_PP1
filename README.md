@@ -40,56 +40,67 @@ Users loves to travel around the world
 
 ### **User Stories:**
 ​
-User stories are more what the user wants from the site in terms of features and presentation
-​
-* As a user, I want to see the subject matter of the page.
-* As a user, I want to navigate the page to find what I require quickly and easily.
-* As a user, I want to learn more about what the business offers
-* As a user, I want to reach out and contact the business
+* I want to navigate the pages in the Lytham history website
+* I want to learn more about Lytham before I come here in Lytham
+* I want to contact the local for more information about Lytham.
 ​
 ### **Site Aims:**
 ​
-This is optional but offers the insight into what the aim of the project are
-​
-* To inform the user on opening times
-* To inform the user about what we offer when they are here
-* To offer the user an oppertunity to get in contact
+My website is aimed to persuade the travellers who hasn't been visited to Lytham before. Because they're usually going to Lakes District which is the most popular mountain in the UK. I hope they will come here in Lytham through my website.
 ​
 ​
 ### **Wireframes:**
 ​
-These are optional if you have any drawings or diagrams about how the site is intended to look include them here
+I have created my wireframes from the software called Balsamiq Wireframes. It can be found in the 'docs' folder.
 ​
 ### **Color Scheme:**
 ​
-Here discuss about the colours you have chosen for the design and the reasoning behind it, make sure to include hash values as well!
-​
-For the page we decided on a black (#000) and red theme (#a red hash i can't remember one) to hark back to the designs of the Sega megadrive which is symbolic of the retro gaming scene blah blah bull shit goes here
+I have decided to choose colours for my home page design:
+
+#eaded2f7
+#antiquewhite
+#3a3a3a
+#252525
+
+for the footer icons:
+
+#royalblue
+
+For the contact form design:
+
+#010577
+#white
+#4169e1
+#bab3cd
+#ccc
+
+For the history page design:
+
+#040202
+rgba(255, 255, 255, 0.6)
 ​
 ## **Typography**
 ​
-Here is a chance to discuss the fonts used and again why, doesn't need to be crazy detail
+* There are three fonts I have used:
+  * Edu SA
+  * Oswald 
+  * Lato
 ​
-* Throughout the page, there are three fonts used:
-  * Oswald - For the title to give it a strong presence.
-  * DM sans - For all other headings including the navbar. 
-  * Open sans - for all content text.
-​
-* DM and Open sans were both selected to complement each other and because they have a soft appearance which I thought best suited to the site
-* All fonts were sourced from Google fonts, as stated in the credits.
+* All fonts were sourced from Google fonts in the Credits section.
 ​
 ## **Current Features Common to all pages**
 ​
 #### *Navigation Bar:*
-This is an example of the features section, your going to talk about each section of the page and what it offers for the navbar for example
-​
-* The user is given links to each section of the page
-* Each option is presented in a way that is always obvious and reable
-* on smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
+
+* I gave the user links to each section of the Home, History and Contact pages.
+* There are each option that are presented to the user to make it reable.
+* On the mobile screens, there are pictures of lytham windmill, lytham library and lytham people to make sure mobile sures have no problem reading my history page.
 ​
 #### *features
 ​
-* This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
+* Home-Page: I have added my personal image to the home page to introduce myself as a local resident in Lytham for over 20 years.
+* History-Page: I have put 4 different images in the history page to introduce them about the history of Lytham.
+* Contact-Form: I have included the contact form to allow users to contact me.
 ​
 ## **Future-Enhancements**
 ​
@@ -100,14 +111,6 @@ A webpage is a living beast it's going to evolve past the initial stages of rele
 * Due to the subject matter, we have discussed the idea of including a small JS game to engage the user
 ​
 ## **Testing Phase**
-​
-This is the hardest bit of the readme, when we have completed a page we need to discuss testing.
-​
-Here is a good idea to talk about how and why you have tested with certain tools and validators so here a list of things to talk through
-​
-* Responsiveness - How do you test this, dev tools? checking on multiple devices?
-​
-* Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
 ​
 * Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
 ​
@@ -146,6 +149,8 @@ Thogdad (the infamous British football youtuber) mentioned that he has a family 
 ### **Content:**
 ​
 <https://www.w3schools.com/howto/howto_css_contact_form.asp>
+<https://fonts.google.com/>
+<https://fontawesome.com/icons>
   
 ### **Media:**
 ​
