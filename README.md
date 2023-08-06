@@ -183,6 +183,6 @@ Thogdad (the infamous British football youtuber) mentioned that he has a family 
 ​
 <https://www.fswaste.co.uk/wp-content/uploads/2022/12/waste-management-in-lytham-st-annes.webp>
 <https://www.visitlytham.info/about/seafront/lytham-windmill/>
-https://upload.wikimedia.org/wikipedia/commons/f/fe/Lytham_Library_-*geograph.org.uk*-_1148169.jpg
+<https://en.wikipedia.org/wiki/Lytham_Library>
 <https://www.famousbirthdays.com/faces/thogdad-image.jpg>
 <https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fthogdad%2Fstatus%2F1166490524787908614&psig=AOvVaw1L4n_TfWgqIXiPgmGwVRkR&ust=1691325736099000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIClp-3SxYADFQAAAAAdAAAAABAE>
