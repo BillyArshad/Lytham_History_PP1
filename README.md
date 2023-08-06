@@ -2,6 +2,8 @@
 
 Lytham History
 
+![Screenshot](assets/docs/Laptop_ipad_desktop_mobile.png)
+
 ## **Site Overview**
 
 I've decided to create the history project about Lytham as I'm a local resident for over 20 years. It's here to offer people from around the world to come to Lytham for a visit. It's filled of beautiful history of Lytham. It's appealing to young and old people who's travelling around the world.
@@ -58,6 +60,8 @@ I have created my Lytham History wireframes from the software called Balsamiq Wi
 ![Homepage](assets/docs/Home_Page.png)
 ![History](assets/docs/History_Page.png)
 ![Contact](assets/docs/Contact_Page.png)
+
+Sometimes I need to change if it doesn't work out. 
 ​
 ### **Color Scheme:**
 ​
@@ -118,23 +122,44 @@ A webpage is a living beast it's going to evolve past the initial stages of rele
 ​
 ## **Testing Phase**
 ​
-* Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from
+* Validators - I was supposed to take images from the html and css validator websites, but due to the strange bugs depsite my best efforts to add them, I had to leave them out and I am writing down instead.
 
-w3c html validator 
-css validator 
+Here are the messages that I wrote from HTML and CSS validators
+
+W3 HTML validator: 
+
+*Error: End tag section seen, but there were open elements.
+
+From line 41, column 5; to line 41, column 14
+
+/div>↩    </section>↩    <
+
+Error: Unclosed element div.
+
+From line 32, column 9; to line 32, column 29
+
+>↩        <div id="cover-text">↩
+
+W3C CSS validator:
+
+W3C CSS Validator results for <https://billyarshad.github.io/Lytham_History_PP1/> (CSS level 3 + SVG)
+Congratulations! No Error Found.
+This document validates as CSS level 3 + SVG !
 ​
 ## **Bugs**
 ​
+I went through the testing phase all day. and there was no bugs in my website.
 
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
-1. From the project's [repository](pageurl), go to the **Settings** tab.
+1. From my Lytham History project [repository](https://github.com/BillyArshad/Lytham_History_PP1), go to the **Settings** tab.
 2. From the left-hand menu, select the **Pages** tab.
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You can find the live site via the following URL - [live webpage](https://yoururlhere)
+You can find the live site via the following URL - [live webpage](https://billyarshad.github.io/Lytham_History_PP1/)
+
 ***
 ​
 ## **Tech**
