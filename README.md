@@ -55,9 +55,9 @@ My website is aimed to persuade the travellers who hasn't been visited to Lytham
 ​
 I have created my Lytham History wireframes from the software called Balsamiq Wireframes.
 
-[Homepage](assets/docs/Home_Page.png)
-[History](assets/docs/History_Page.png)
-[Contact](assets/docs/Contact_Page.png)
+![Homepage](assets/docs/Home_Page.png)
+![History](assets/docs/History_Page.png)
+![Contact](assets/docs/Contact_Page.png)
 ​
 ### **Color Scheme:**
 ​
