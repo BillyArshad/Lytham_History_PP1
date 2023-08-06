@@ -6,7 +6,9 @@ Lytham History
 
 I've decided to create the history project about Lytham as I'm a local resident for over 20 years. It's here to offer people from around the world to come to Lytham for a visit. It's filled of beautiful history of Lytham. It's appealing to young and old people who's travelling around the world.
 
-My screenshots is located at the folder called "docs"
+[Home Page](assets/docs/Homepage.png)
+[History Page](assets/docs/Historypage.png)
+[Contact Page](assets/docs/contactform.png)
 ​
 ## Table of contents:
 - [**Site Title**](#site-title)
