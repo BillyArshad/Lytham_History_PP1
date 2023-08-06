@@ -107,10 +107,12 @@ rgba(255, 255, 255, 0.6)
 * Home-Page: I have added my personal image to the home page to introduce myself as a local resident in Lytham for over 20 years.
 * History-Page: I have put 4 different images in the history page to introduce them about the history of Lytham.
 * Contact-Form: I have included the contact form to allow users to contact me.
+* Footer: I have added the three different social medias on the footer on Home, History and Contact
 
 ![Home Page](assets/docs/Homepage.png)
 ![History Page](assets/docs/Historypage.png)
 ![Contact Page](assets/docs/contactform.png)
+![Footer](assets/docs/Footer.png)
 ​
 ## **Future-Enhancements**
 ​
@@ -127,7 +129,7 @@ Here are these results:-
 ​
 ## **Bugs**
 ​
-When I tested my website, there are a bug .
+When I tested my website, there are a bug which cause the home page being not responsive, so I have managed to fix this bug by changing the media queries in CSS.
 
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
