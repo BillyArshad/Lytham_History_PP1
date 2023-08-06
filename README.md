@@ -7,10 +7,6 @@ Lytham History
 ## **Site Overview**
 
 I've decided to create the history project about Lytham as I'm a local resident for over 20 years. It's here to offer people from around the world to come to Lytham for a visit. It's filled of beautiful history of Lytham. It's appealing to young and old people who's travelling around the world.
-
-![Home Page](assets/docs/Homepage.png)
-![History Page](assets/docs/Historypage.png)
-![Contact Page](assets/docs/contactform.png)
 ​
 ## Table of contents:
 - [**Site Title**](#site-title)
@@ -111,44 +107,27 @@ rgba(255, 255, 255, 0.6)
 * Home-Page: I have added my personal image to the home page to introduce myself as a local resident in Lytham for over 20 years.
 * History-Page: I have put 4 different images in the history page to introduce them about the history of Lytham.
 * Contact-Form: I have included the contact form to allow users to contact me.
+
+![Home Page](assets/docs/Homepage.png)
+![History Page](assets/docs/Historypage.png)
+![Contact Page](assets/docs/contactform.png)
 ​
 ## **Future-Enhancements**
 ​
-A webpage is a living beast it's going to evolve past the initial stages of release generally, it's always good to discuss where you this the page may go in the future
-​
-* At the time of making this page i didn't have the understanding to actual send e-mails from the contact form so intergration with email.js to send e-mails would improve the users experience
-​
-* Due to the subject matter, we have discussed the idea of including a small JS game to engage the user
+I think I might add the email feature in the contact form page, so I can get feedbacks from the users to improve their experiences in the future. 
 ​
 ## **Testing Phase**
 ​
-* Validators - I was supposed to take images from the html and css validator websites, but due to the strange bugs depsite my best efforts to add them, I had to leave them out and I am writing down instead.
+* Validators - I used two W3 websites to test HTML and CSS on my website. 
 
-Here are the messages that I wrote from HTML and CSS validators
+Here are these results:-
 
-W3 HTML validator: 
-
-*Error: End tag section seen, but there were open elements.
-
-From line 41, column 5; to line 41, column 14
-
-/div>↩    </section>↩    <
-
-Error: Unclosed element div.
-
-From line 32, column 9; to line 32, column 29
-
->↩        <div id="cover-text">↩
-
-W3C CSS validator:
-
-W3C CSS Validator results for <https://billyarshad.github.io/Lytham_History_PP1/> (CSS level 3 + SVG)
-Congratulations! No Error Found.
-This document validates as CSS level 3 + SVG !
+![HTML](assets/docs/html_validator.png)
+![CSS](assets/docs/W3C_CSS_Validator.png)
 ​
 ## **Bugs**
 ​
-I went through the testing phase all day. and there was no bugs in my website.
+When I tested my website, there are a bug .
 
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
