@@ -112,18 +112,14 @@ A webpage is a living beast it's going to evolve past the initial stages of rele
 ​
 ## **Testing Phase**
 ​
-* Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
-​
+* Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from
+
+w3c html validator 
+css validator 
 ​
 ## **Bugs**
 ​
-We always have bugs in development, a few bullet points here to talk about bugs you found and how you fixed them, in later projects this will be more detailed
-​
-* Issue - When on mobile the user had horizontal scroll with items overflowing
-* Cause - The images had absolute positioning and caused them to go off screen
-* Resolution - Changed the width of the image to stay within the confines of the screen.
-​
-***
+
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
@@ -132,7 +128,7 @@ I deployed the page on GitHub pages via the following procedure: -
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You  can find the live site via the following URL - [live webpage](https://yoururlhere)
+You can find the live site via the following URL - [live webpage](https://yoururlhere)
 ***
 ​
 ## **Tech**
